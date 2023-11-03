@@ -1,0 +1,29 @@
+@charset "UTF-8"; 
+.bodyclass{
+	background-color: aqua;
+}
+.texto{
+	font-size:20px;
+	font-family:verdana;
+	color: blue;
+}
+.texto_item1{
+	text-align:center;
+}
+.texto_item2{
+	text-align:center;
+	background-color: silver;
+}
+.texto_item3{
+	text-align:right;
+}
+.texto_item4{
+	text-align: center;
+	background-color: silver;
+}
+.rojo{
+	color: red;
+}
+.rojo2{
+	color: red;
+}
